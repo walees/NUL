@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "327290165114",
+    "firebase_url": "https://maryam-6b14a.firebaseio.com",
+    "project_id": "maryam-6b14a",
+    "storage_bucket": "maryam-6b14a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327290165114:android:300427169bfd7a07ace8c3",
+        "android_client_info": {
+          "package_name": "com.nulXpress.maryam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327290165114-rmfdq77q5p95n7fbrbr8ckbgej65rsbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcc0F0HV_8GMDqJP4_zPPFZ9mBcU2AZ3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327290165114-rmfdq77q5p95n7fbrbr8ckbgej65rsbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "327290165114-cn87jnic21cebmdr123hkai2peakdrun.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nulXpress.maryam"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
